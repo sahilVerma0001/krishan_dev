@@ -75,7 +75,7 @@ export default function About() {
               {/* Quick Spec Bar below Image */}
               <div className="mt-5 grid grid-cols-2 gap-3 text-center">
                 <div className="p-3 rounded-xl bg-[var(--bg-inner)] border border-[var(--border-subtle)]">
-                  <span className="text-lg font-black text-[var(--text-primary)] block">3+ Yrs</span>
+                  <span className="text-lg font-black text-[var(--text-primary)] block">1+ Yrs</span>
                   <span className="text-[9px] font-mono text-[var(--text-muted)] uppercase tracking-wider">Engineering Focus</span>
                 </div>
                 <div className="p-3 rounded-xl bg-[var(--bg-inner)] border border-[var(--border-subtle)]">
